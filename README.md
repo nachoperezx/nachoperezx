@@ -34,7 +34,20 @@ Trabajo como garzón en el sector hotelero y gastronómico desde 2021. Ver la op
 | **Marea** · *prototipo funcional en desarrollo* | Inventario y facturas para el hotel donde trabajo. Lee facturas por lote (foto, PDF y XML de DTE) con OCR local, detecta duplicados y valida totales. API REST con 6 roles de acceso, app Android y 133 pruebas automatizadas. | Python · FastAPI · SQLite · Tesseract · Kotlin · Jetpack Compose · pytest |
 | **Aqua** · *en uso diario* | Mi asistente personal de IA en la nube, con cuatro interfaces: bot de Telegram, app web, app de escritorio y un Echo Show 5 con detección local de palabra clave. Agentes especializados con aprobación humana para acciones sensibles. | Python · JavaScript · Java (Android) · Docker Compose · AWS Lightsail · GitHub Actions · n8n |
 
-> El código de estos proyectos es privado. Puedes ver una demo animada de Marea y conversar con Aqua en mi **[portafolio](https://ignacio-perez.vercel.app)**.
+<table>
+  <tr>
+    <td width="50%" valign="top"><b>Marea</b> · lectura de facturas con OCR, validación y actualización del inventario<br><br><a href="https://ignacio-perez.vercel.app/#proyectos"><img src="assets/marea.png" alt="Marea: demo del flujo foto, OCR, validación e inventario" width="100%"></a></td>
+    <td width="50%" valign="top"><b>Aqua</b> · asistente personal de IA en la nube, con cuatro interfaces<br><br><a href="https://ignacio-perez.vercel.app/#proyectos"><img src="assets/aqua.png" alt="Aqua: ficha técnica y su imagen, un pequeño robot blanco con aletas celestes" width="100%"></a></td>
+  </tr>
+</table>
+
+> El código de estos proyectos es privado. Puedes ver la demo animada de Marea y conversar con Aqua en mi **[portafolio](https://ignacio-perez.vercel.app)**.
+
+### Mi portafolio
+
+<a href="https://ignacio-perez.vercel.app"><img src="assets/portafolio.png" alt="Portafolio de Ignacio Pérez: portada con su nombre y el chat de Aqua" width="100%"></a>
+
+Un sitio que se arma en vivo mientras haces scroll, con un chat de Aqua que responde preguntas sobre mí y ayuda a escribirme. 👉 **[ignacio-perez.vercel.app](https://ignacio-perez.vercel.app)**
 
 ### Tecnologías
 
