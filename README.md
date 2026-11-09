@@ -36,10 +36,12 @@ Trabajo como garzón en el sector hotelero y gastronómico desde 2021. Ver la op
 
 <table>
   <tr>
-    <td width="50%" valign="top"><b>Marea</b> · lectura de facturas con OCR, validación y actualización del inventario<br><br><a href="https://ignacio-perez.vercel.app/#proyectos"><img src="assets/marea.png" alt="Marea: demo del flujo foto, OCR, validación e inventario" width="100%"></a></td>
+    <td width="50%" valign="top"><b>Marea</b> · archivo de facturas cargadas por lote, con estado y sector de destino<br><br><img src="assets/marea-facturas.png" alt="Marea: archivo de facturas con proveedor, emisión, total, origen, sector y estado" width="100%"></td>
     <td width="50%" valign="top"><b>Aqua</b> · asistente personal de IA en la nube, con cuatro interfaces<br><br><a href="https://ignacio-perez.vercel.app/#proyectos"><img src="assets/aqua.png" alt="Aqua: ficha técnica y su imagen, un pequeño robot blanco con aletas celestes" width="100%"></a></td>
   </tr>
 </table>
+
+<p align="center"><img src="assets/marea-revision.png" alt="Marea: revisión de una factura con el texto leído por OCR a la izquierda y los datos extraídos y validaciones a la derecha" width="80%"><br><sub><b>Marea</b> · revisión de una factura: a la izquierda el texto leído con OCR, a la derecha los datos extraídos y la validación que avisa cuando los montos no cuadran. Capturas con facturas de prueba ficticias.</sub></p>
 
 > El código de estos proyectos es privado. Puedes ver la demo animada de Marea y conversar con Aqua en mi **[portafolio](https://ignacio-perez.vercel.app)**.
 
